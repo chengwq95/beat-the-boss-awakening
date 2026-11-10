@@ -1,6 +1,10 @@
 # 暴打老板：打工人觉醒 · Beat the Boss Awakening
 
+![暴打老板：打工人觉醒 · Beat the Boss Awakening](docs/screenshot.jpg)
+
 一款中文点击放置小游戏。疯狂点击老板、积攒怒气、命中弱点、使用应急道具，并在“辞职周目”里用永久加成越打越强。
+
+> 这是 [暴打老板](https://github.com/chengwq95/beat-the-boss-game) 的续作，在初代的点击放置玩法上加入怒气技能、弱点攻击、应急道具与辞职周目。
 
 ## 在线访问
 
@@ -41,3 +45,7 @@
 ## 声明
 
 本游戏纯属娱乐。现实中的职场问题建议通过合法、理性的方式解决。
+
+## 许可
+
+[MIT](LICENSE)
